@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.row {
+    display: flex;
+
+}
+
+#container {
+    border: 1px solid red;
+    max-width: 642px;
+    max-height: 642px;
+    display: flex;
+    flex-direction: column;
+    flex: initial;
+}
+
+
+.box {
+
+}
+
+
